@@ -9,10 +9,10 @@
     2.
 
 - Nama Anggota:
-1. I Ketut Gede Arta Putra (G24180034)
-2. Rafi Adiapratama (G24180035)
-3. Eryana Nurwenda Az-Zahra (G24180055)
-4. Athirotul Wardah MY (G24180058)
+1. I Ketut Gede Arta Putra (G24180034) as Designer UI/UX
+2. Rafi Adiapratama (G24180035) as Back end
+3. Eryana Nurwenda Az-Zahra (G24180055) as Front end
+4. Athirotul Wardah MY (G24180058) as Analyst
  
 Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewadahi para donatur yang ingin berdonasi bagi penderita kanker. Hampir sama seperti platform-platform donasi yang sudah ada, tetapi platform Canshare ini dikhususkan untuk pengguna yang ingin berdonasi kepada penderita kanker saja dan ditargetkan kepada pengguna (donatur dan penderita kanker) yang khususnya berada di Indonesia. Tidak hanya itu, Canshare juga mempunyai fitur bagi penderita kanker untuk berkonsultasi kepada dokter mengenai berbagai hal tentang penyakit kanker. Canshare berbentuk sebuah aplikasi berbasis web yang dengan mudah dapat diakses oleh siapapun, dimanapun, dan kapanpun. Aplikasi ini diharapkan dapat membantu dan meringankan biaya pengobatan bagi penderita kanker yang membutuhkan, selain itu diharapkan memudahkan donatur ataupun aktivis yang ingin membantu penderita kanker.
 
